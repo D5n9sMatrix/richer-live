@@ -1,0 +1,81 @@
+# Created by Octave 6.2.0, Tue Apr 05 01:14:59 2022 -03 <denis@denis-Inspiron-15-3567>
+# name: A
+# type: scalar
+11.5
+
+
+# name: B
+# type: scalar
+115
+
+
+# name: C
+# type: scalar
+6500
+
+
+# name: ans
+# type: scalar
+0
+
+
+# name: f
+# type: bool
+1
+
+
+# name: i
+# type: scalar
+110
+
+
+# name: j
+# type: scalar
+5500
+
+
+# name: k
+# type: scalar
+3534
+
+
+# name: l
+# type: scalar
+0
+
+
+# name: loop
+# type: scalar
+130
+
+
+# name: m
+# type: scalar
+12500
+
+
+# name: middle
+# type: scalar
+1.5
+
+
+# name: n
+# type: scalar
+5500
+
+
+# name: r
+# type: scalar
+9500
+
+
+# name: saxpy
+# type: scalar
+110
+
+
+# name: six
+# type: bool
+0
+
+

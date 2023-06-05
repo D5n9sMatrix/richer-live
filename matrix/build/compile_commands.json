@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/richer-live/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/richer-live.dir/richer-live.cpp.o -c /home/denis/Projects/richer-live/matrix/richer-live.cpp",
+  "file": "/home/denis/Projects/richer-live/matrix/richer-live.cpp"
+}
+]
